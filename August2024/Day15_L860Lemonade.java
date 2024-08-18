@@ -1,6 +1,7 @@
 public class Day15_L860Lemonade {
     public static void main(String[] args) {
         L860Sol sol = new L860Sol();
+        
         boolean possible = sol.lemonadeChange(new int[]{5,5,5,10,20});
     }
 }
